@@ -98,3 +98,6 @@ Becomes FAST.py:
 #!/usr/bin/python3
 print('Hello World!')
 ```
+
+### Dependencies
+You need to have the Python module Click installed. This can easily be accomplished via `pip3 install click`.
