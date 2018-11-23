@@ -4,6 +4,7 @@ FASTcode is a free and open source programming language that is vastly superior 
 | | FASTcode | Python | Java |
 | --- | --- | --- | --- |
 | Open Source | ✓ | ✓ | ~ |
+| Beginner Friendly | ✓ | ✓ | X |
 | Static Typing | ✓ | X | ✓ |
 | Dynamic Typing | ✓ | ✓ | X |
 | Java Interop | ✓ | X | ✓ |
@@ -12,7 +13,7 @@ FASTcode is a free and open source programming language that is vastly superior 
 | Number of Keywords | 3 | 33 | 50 |
 | **Characters Required to Print "Hello, World!"** | ***0*** | **13** | **92** |
 
-Since FASTcode is the best in all 8 of these categories (especially the last one), it is the superior language.
+Since FASTcode is the best in all 9 of these categories (especially the last one), it is the superior language.
 
 How does FASTcode work? It's simple! FASTcode is defined by 3 simple rules:
 - If the file is empty, it is outputted as a Python 3 file reading `print('Hello, World!')`
